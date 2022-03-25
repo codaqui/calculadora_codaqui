@@ -12,3 +12,4 @@ somar_dois_numeros(2,2)
 ```
 ## Colaborando com a Calculadora
 
+## Instalando a Calculadora
